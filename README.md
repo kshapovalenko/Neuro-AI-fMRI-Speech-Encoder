@@ -8,7 +8,11 @@ It is implemented as part of [CMU 10-733 Course on Representation and Generation
 ## Repository Structure
 This repository contains the following files and directories:
 
-- `hw1_notebook.ipynb`: A comprehensive Jupyter notebook with all code.
+- `notebook.ipynb`: A comprehensive Jupyter notebook with all code.
+- `charts` folder: All Pycortex-generated charts. 
+- `py_files_huth`: Support code files. 
+- `rsa_values`: Saved files with calculated RSA values.
+- `word_data`: Saved files with transcript statistics. 
 - `README.md`: This file provides an overview of the project, its objectives, and the contents of the repository.
 
 ## References
