@@ -1,7 +1,7 @@
 # Building fMRI Encoding Models for Natural Speech
 
 ## Background and Objectives
-The goal is to build an fMRI encoding models for natural speech. 
+This project focuses on developing an encoding model to analyze fMRI data from LeBel et al. (2023), involving eight subjects listening to narrative stories. The task is to process and analyze a selected subset of this data, primarily from three subjects, to implement an effective encoding analysis. The dataset requires careful selection and preprocessing, aiming to understand the relationship between auditory stimuli and brain activity.
 
 ## Repository Structure
 This repository contains the following files and directories:
