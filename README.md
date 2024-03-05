@@ -1,4 +1,4 @@
-# Building fMRI encoding models for natural speech
+# Building fMRI Encoding Models for Natural Speech
 
 ## Background and Objectives
 The goal is to build an fMRI encoding models for natural speech. 
