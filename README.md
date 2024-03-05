@@ -6,19 +6,15 @@ The goal is to build an fMRI encoding models for natural speech.
 ## Repository Structure
 This repository contains the following files and directories:
 
-- `final-presentation.pdf`: A brief presentation about project goals, approaches, and results.
-- `notebooks`: A folder containing all Jupyter notebooks, which include:
-   - `data-cleaning.ipynb`: Code to prepare data for prompt-engineering and/or fine-tuning.
-   - `prompt-engineering.ipynb`: Code to run prompt-engineering.
-   - `fine-tuning.ipynb`: Code to run LoRA/QLoRA fine-tuning.
-   - `evaluation-viz.ipynb`: Code to evaluate the predictions and visualize the results.
-   - `human-evaluation.xlsx`: Excel table with the results of human evaluation. 
-- `demo.mp4`: A video demonstrating the performance of prompt-engineered and fine-tuned models. Also available on Youtube: https://youtu.be/dnIPv0LCaZw
-- `final-report.pdf`: A detailed report in PDF format summarizing the approach, methodology, results, and insights from the analysis.
+- `hw1_notebook.ipynb`: A comprehensive Jupyter notebook with all code.
 - `README.md`: This file provides an overview of the project, its objectives, and the contents of the repository.
 
 ## References
-See the full list of references in `final-report.pdf`. 
+- Data: https://openneuro.org/datasets/ds003020/versions/2.0.0 
+- Kriegeskorte, N., Mur, M., and Bandettini, P. A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. Frontiers in systems neuroscience, page 4.
+- LeBel, A., Wagner, L., Jain, S., Adhikari-Desai, A., Gupta, B., Morgenthal, A., Tang, J., Xu, L., and Huth, A. G. (2023). A natural language fmri dataset for voxelwise encoding models. Scientific Data, 10(1):555.
+- FMRI Tutorial 1: https://github.com/HuthLab/speechmodeltutorial 
+- FMRI Tutorial 2: https://www.cs.cmu.edu/~lwehbe/files/Copy_of_workshop.html
 
 ---
 Note: All data used in this project is sourced ethically, and the analysis adheres to the highest standards of research integrity and ethical guidelines.
